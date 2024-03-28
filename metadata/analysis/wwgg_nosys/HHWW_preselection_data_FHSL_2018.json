@@ -37,12 +37,16 @@
         }},
 
     "samples": {
-        "catalog": "metadata/samples/hhww_cusNANO_data_2018.json",
-        "sample_list": [
-            "UL18_dataA",
-            "UL18_dataB",
-            "UL18_dataC"
-            ],
+        // "catalog": "metadata/samples/hhww_cusNANO_data_2018.json",
+        // "sample_list": [
+        //     "UL18_dataA",
+        //     "UL18_dataB",
+        //     "UL18_dataC"
+        //     ],
+        "catalog" : "metadata/samples/hhww_cusNANOv2_local.json",
+        "sample_list" :[
+            "EGamma_Run2018A_1"
+        ],
         "years": [
             "2018"
         ]
