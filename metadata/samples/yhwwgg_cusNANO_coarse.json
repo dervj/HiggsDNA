@@ -1,0 +1,19 @@
+{
+    "NMSSM_YH_FH" : 
+    {"process_id": 0,
+    "xs":0.001,
+    "bf":1.0,
+    "fpo":1,
+    "files":{
+    "2018":
+    [
+        "/eos/cms/store/group/phys_b2g/jodervan/nanoAOD_Jul24/UL2018/NMSSM_XToYHTo2G2WTo2G4Q_MX-1000_MY-100_TuneCP5_13TeV-madgraph-pythia8/8A94E33D-839D-784B-9636-3F2324C35782.root",
+        "/eos/cms/store/group/phys_b2g/jodervan/nanoAOD_Jul24/UL2018/NMSSM_XToYHTo2G2WTo2G4Q_MX-1000_MY-100_TuneCP5_13TeV-madgraph-pythia8/FCCA200B-6C35-D74C-895D-70E8A8F7D09F.root",
+        "/eos/cms/store/group/phys_b2g/jodervan/nanoAOD_Jul24/UL2018/NMSSM_XToYHTo2G2WTo2G4Q_MX-1000_MY-100_TuneCP5_13TeV-madgraph-pythia8/71BAFA94-1FB3-394D-B798-9397E1303049.root",
+        "/eos/cms/store/group/phys_b2g/jodervan/nanoAOD_Jul24/UL2018/NMSSM_XToYHTo2G2WTo2G4Q_MX-1000_MY-100_TuneCP5_13TeV-madgraph-pythia8/29EFAE18-DF04-1543-93B3-D3803825675D.root",
+        "/eos/cms/store/group/phys_b2g/jodervan/nanoAOD_Jul24/UL2018/NMSSM_XToYHTo2G2WTo2G4Q_MX-1000_MY-100_TuneCP5_13TeV-madgraph-pythia8/E352B725-A1DF-E244-ABC6-8D4A39FBACC6.root",
+        "/eos/cms/store/group/phys_b2g/jodervan/nanoAOD_Jul24/UL2018/NMSSM_XToYHTo2G2WTo2G4Q_MX-1000_MY-100_TuneCP5_13TeV-madgraph-pythia8/11ADBFAE-8EF4-6D46-8BA8-F18392198E2F.root"
+    ]
+    }
+    }
+}
